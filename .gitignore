@@ -1,0 +1,41 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Bot data
+user_settings.json
+user_settings.json.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.py
+decode_calendars.py
+
+# Images
+*.jpg
+*.png
+*.gif
+
